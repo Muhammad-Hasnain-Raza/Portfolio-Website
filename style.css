@@ -810,7 +810,7 @@ text-align: center;
 }
 .projects-box{
     background: black;
-height: 430px;
+                          height: 350px;
 box-sizing: border-box;
 border-radius: 3rem ;
 cursor: pointer;
