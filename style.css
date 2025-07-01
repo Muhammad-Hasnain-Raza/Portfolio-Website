@@ -13,7 +13,7 @@
 
 :root{
     --bg-color: #000000;
-    --second-bg-color: #989898;
+    --second-bg-color: #696868;
     --text-color: #000000;
     /* --main-color: #7b4bb7; */
     --main-color: #58ce58;
@@ -809,7 +809,7 @@ text-align: center;
     border-bottom-right-radius: 0px;
 }
 .projects-box{
-    background: black;
+    background: rgb(0, 0, 0);
                           height: 350px;
 box-sizing: border-box;
 border-radius: 3rem ;
